@@ -6,7 +6,7 @@ NCNU LSA project - 一起洗澡吧>///<
 <<調水溫>>自古至今都是一件極度艱鉅的任務,此專案旨在解決此難題。
 多人使用，效果尤佳。
 
-### How to use?
+## How to use?
 Input temperature & expected time of shower, then wait for the magic!
 
 ## Group member
