@@ -59,6 +59,8 @@ Python
 
 ## References
   https://www.youtube.com/watch?v=j7LLVkPpQ78&t=481s
+  
   https://pypi.org/project/RPi.GPIO/
+  
   https://tutorials-raspberrypi.com/raspberry-pi-temperature-sensor-1wire-ds18b20/
   
