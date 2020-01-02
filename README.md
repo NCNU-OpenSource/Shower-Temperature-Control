@@ -1,4 +1,4 @@
-NCNU LSA project - 一起洗澡吧>///<
+[NCNU LSA project]  一起洗澡吧>///<
 ===
 ## Idea
 洗澡，洗香香~ 一個便宜精準的控溫方案！
