@@ -1,10 +1,11 @@
 NCNU LSA project - 一起洗澡吧>///<
 ===
 ## Idea
-洗澡，洗香香~ 
+洗澡，洗香香~ 一個便宜精準的控溫方案！
 
-<<調水溫>>自古至今都是一件極度艱鉅的任務,此專案旨在解決此難題。
-多人使用，效果尤佳。
+<<調水溫>> 自古至今都是一件極度艱鉅的任務, 此專案旨在解決此難題。
+使用者可輸入自己偏愛的溫度, 甚至設置多組個人設定, 共浴時不再需煩惱太冷/太熱的水溫。
+多人使用, 效果尤佳。
 
 ## How to use?
 Input temperature & expected time of shower, then wait for the magic!
@@ -52,10 +53,11 @@ Python
   - ```GPIO.output(x, GPIO.LOW)```  //High or Low
   
   - ```read(ds18b20)[0]```          //[0]celsius, [1]farenheit
-  
+
 ## Future improvements
-  - 解決溫度計反應太慢的問題 → [更多的溫度計] Cold, Hot 兩鍋各放一支溫度計
-  - 水位感測 → 現有方式爲設定
+  - 解決溫度計反應太慢 → [更多的溫度計] Cold, Hot 兩鍋各放一支溫度計, 依此決定馬達啓閉
+  - 水位感測 → 現有方式爲設定固定終止時間, 加入水位感測可依此判斷使用者是否關水了~~~ 關水程式就停止
+  - 人物判斷 → 判斷蓮蓬頭下的使用者, 自動 apply 使用者設定
 
 ## References
   https://www.youtube.com/watch?v=j7LLVkPpQ78&t=481s
