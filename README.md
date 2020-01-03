@@ -31,7 +31,7 @@ Python
   - glob
   - time
 
-## 電路圖
+## Circuit diagram
 
 ## Temperature Sensor (DS18B20) set up
  - 接好電路板
