@@ -17,10 +17,11 @@ Input temperature & expected time of shower, then wait for the magic!
 - 黃暐澄 106213076
 
 ## Hardware
-  - Raspberry Pi 3
-  - Temperature Sensor (DS18B20) × 1          https://www.taiwaniot.com.tw/product/微型-抽水馬達-沉水馬達-dc3vdc5v/
-  - 微型 抽水馬達 沉水馬達(立式) DC3V~DC5V × 2    https://www.taiwaniot.com.tw/product/100cm長度-ds18b20防水探針型熱電偶溫度感測器/
-  - Relay × 2
+| 名稱           | 數量 | 來源     |
+| -------------- | ---- | -------- |
+| Temperature Sensor (DS18B20)| 2    | https://www.taiwaniot.com.tw/product/100cm長度-ds18b20防水探針型熱電偶溫度感測器/    |
+| 微型 抽水馬達 沉水馬達(立式) DC3V~DC5V     | 1    | https://www.taiwaniot.com.tw/product/微型-抽水馬達-沉水馬達-dc3vdc5v/ |
+| Relay     | 2    | MOLi |
 
 ## Packages
 Python
