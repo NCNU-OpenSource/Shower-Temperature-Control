@@ -22,7 +22,9 @@ Input temperature & expected time of shower, then wait for the magic!
 | Raspberry Pi 3     | 1    | 課堂提供 |
 | Temperature Sensor (DS18B20)| 1    | https://www.taiwaniot.com.tw/product/100cm長度-ds18b20防水探針型熱電偶溫度感測器/   |
 | 微型 抽水馬達 沉水馬達(立式) DC3V~DC5V     | 2    | https://www.taiwaniot.com.tw/product/微型-抽水馬達-沉水馬達-dc3vdc5v/ |
-| Relay     | 2    | MOLi |
+| Relay    | 2    | MOLi |
+| 水管     | 很長  | 柏翰  |
+| 寶特瓶   | 2    | 全家, MOLi桌上 |
 
 ## Packages
 Python
