@@ -5,7 +5,7 @@
 
 <<調水溫>> 自古至今都是一件極度艱鉅的任務, 此專案旨在解決此難題。
 使用者可輸入自己偏愛的溫度, 甚至設置多組個人設定, 共浴時不再需煩惱太冷/太熱的水溫。
-多人使用, 效果尤佳。
+寒冬中多人使用, 效果尤佳。
 
 ## How to use?
 Input temperature & expected time of shower, then wait for the magic!
