@@ -25,6 +25,7 @@ Input temperature & expected time of shower, then wait for the magic!
 | Relay    | 2    | MOLi |
 | 水管     | 很長  | 柏翰  |
 | 寶特瓶   | 2    | 全家, MOLi桌上 |
+| Dupont Wire    | 數根   | MOLi |
 
 ## Packages
 Python
