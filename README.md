@@ -35,7 +35,7 @@ Python
   - time
 
 ## Circuit diagram
-!(image)[https://i.imgur.com/ff9nb2R.jpg]
+![image](https://i.imgur.com/ff9nb2R.jpg)
 ## Temperature Sensor (DS18B20) set up
  - 接好電路板
  - sudo vim /boot/config.txt
